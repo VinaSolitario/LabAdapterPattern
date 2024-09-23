@@ -23,3 +23,4 @@ PowerOutlet - Represents a standard power outlet with a common interface for plu
 3. SmartphoneAdapter - An adapter for plugging a smartphone charger into a standard power outlet. It adapts the SmartphoneCharger to the PowerOutlet interface, translating plugIn() to chargePhone().
 
 # UML DIAGRAM
+![image](https://github.com/VinaSolitario/LabAdapterPattern/blob/main/UML_AdapterPattern.png)
